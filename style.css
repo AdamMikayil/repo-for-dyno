@@ -1,0 +1,15 @@
+#coins {
+  width: 24px;
+}
+#dyno {
+  width: 150px;
+}
+
+body{
+  background:black;
+  color:white;display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
